@@ -1,0 +1,17 @@
+{
+    "name": "Calculator.UI.CalculatorView",
+    "rootNamespace": "Calculator.UI.CalculatorView",
+    "references": [
+        "Unity.TextMeshPro",
+        "Calculator.Presenter"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

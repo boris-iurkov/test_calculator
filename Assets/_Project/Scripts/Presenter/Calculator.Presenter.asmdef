@@ -1,0 +1,16 @@
+{
+    "name": "Calculator.Presenter",
+    "rootNamespace": "Calculator.Presenter",
+    "references": [
+        "Calculator.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

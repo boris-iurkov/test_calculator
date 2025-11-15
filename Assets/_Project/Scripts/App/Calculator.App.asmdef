@@ -1,0 +1,19 @@
+{
+    "name": "Calculator.App",
+    "rootNamespace": "Calculator.App",
+    "references": [
+        "Calculator.Core",
+        "Calculator.Presenter",
+        "Calculator.UI.CalculatorView",
+        "Calculator.UI.InfoPopupView"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Calculator.UI.InfoPopupView",
+    "rootNamespace": "Calculator.UI.InfoPopupView",
+    "references": [
+        "Calculator.Presenter"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
